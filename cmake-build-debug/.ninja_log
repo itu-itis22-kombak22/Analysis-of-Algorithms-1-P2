@@ -1,0 +1,6 @@
+# ninja log v5
+8	490	1732360720080988330	CMakeFiles/algohw2.dir/src/main.cpp.o	cfb6d30207b2dc3a
+2	700	1732360558588562745	CMakeFiles/algohw2.dir/src/metrics.cpp.o	7c261c2959058d4c
+2	531	1732360618999580553	CMakeFiles/algohw2.dir/src/utilities.cpp.o	a79864a41dc85a21
+490	582	1732360720175007076	algohw2	7cd579c24448cd4a
+3	729	1732360558618838687	CMakeFiles/algohw2.dir/src/sort.cpp.o	c2e85978ff750845

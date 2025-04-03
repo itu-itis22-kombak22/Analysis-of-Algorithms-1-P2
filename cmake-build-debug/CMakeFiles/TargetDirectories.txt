@@ -1,0 +1,3 @@
+/Users/ecenilkombak/CLionProjects/algohw2/cmake-build-debug/CMakeFiles/algohw2.dir
+/Users/ecenilkombak/CLionProjects/algohw2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ecenilkombak/CLionProjects/algohw2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
